@@ -1,2 +1,3 @@
 # se250-lab8-costume-closet
-lab for se-250
+Bun Virakboth Heng 
+Ninjai Vang
