@@ -19,8 +19,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 <form method="post">
     Item: <input name="item" maxlength="30" required><br>
-    Item: <input name="borrower" maxlength="30" required><br>
-    Item: <input type="date" name="due_date"><br>
+    Borrower: <input name="borrower" maxlength="30" required><br>
+    Due Date: <input type="date" name="due_date"><br>
     <button>Save</button>
 </form>
 <a href = "show.php">Back</a>
