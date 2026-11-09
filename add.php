@@ -12,7 +12,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     $stmt->execute();
     $stmt->close();
 
-    header("Location: list.php");
+    header("Location: show.php");
     exit;
 }
 ?>
